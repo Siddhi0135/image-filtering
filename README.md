@@ -1,4 +1,4 @@
-# Images.js
+# Image filtering
 This frontend project uses HTML, CSS, Bootstrap, Javascript, Jquery. 
 
 ### Requirements 
